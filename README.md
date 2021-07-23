@@ -1,5 +1,5 @@
-# Run composer install
+# read me
 
-# run yarn install
-
-# run yarn encore dev
+Run composer install
+Run yarn install
+Run yarn encore dev
